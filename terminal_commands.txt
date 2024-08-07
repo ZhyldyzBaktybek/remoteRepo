@@ -1,0 +1,26 @@
+vi filename, Press i to insert content, Press ESC Shift+ZZ
+-----------------------------------------------------------
+cat filename - to see the content
+cp filename filename2 - copy the filename
+cp -r folder folder2
+clear - to clear the screen
+------------------------------------------------------------
+mv filename filename1 - to rename the file
+mv directoryName directoryName2 - to rename the folder
+rm filename - to remove the file
+rmdir directoryName - to remove directory
+mkdir new_directory_name
+-----------------------------------------------------------
+ls - to list all the contents of the folder
+ls *.txt - to select the file ending with .txt
+ls -a, to view hidden files and directories
+ls l?* - to view the files starts with l
+ls ?it*
+
+ls directoryName - to view the content of the directory
+mkdir directoryName/newDirectory - to create a new subdirectory
+cd directoryName - change directory
+cd .. - to navigate to the parent directory
+pwd - print working directory
+wc terminal_commands.txt
+
