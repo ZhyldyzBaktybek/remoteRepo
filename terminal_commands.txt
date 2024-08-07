@@ -17,6 +17,7 @@ ls -a, to view hidden files and directories
 ls l?* - to view the files starts with l
 ls ?it*
 
+
 ls directoryName - to view the content of the directory
 mkdir directoryName/newDirectory - to create a new subdirectory
 cd directoryName - change directory
